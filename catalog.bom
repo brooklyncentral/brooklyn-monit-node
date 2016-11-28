@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: Monit Node
   description: Monit is a free open source utility for managing and monitoring, processes, programs, files, directories and filesystems on a UNIX system
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/en/b/b5/Tildeslash_Monit_Logo.gif
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
